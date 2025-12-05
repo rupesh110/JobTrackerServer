@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JobTrackerServer.Api",
+    "\\JobTrackerServer.Api\\Controllers",
+    "\\JobTrackerServer.Application",
+    "\\JobTrackerServer.Application\\DTOs",
+    "\\JobTrackerServer.Application\\DTOs\\Job",
+    "\\JobTrackerServer.Infrastructure",
+    "\\JobTrackerServer.Infrastructure\\Migrations",
+    "\\JobTrackerServer.Infrastructure\\Persistence",
+    "\\JobTrackerServer.Infrastructure\\Repositories"
+  ],
+  "PreviewInSolutionExplorer": false
+}
