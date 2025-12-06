@@ -50,3 +50,6 @@ app.MapControllers();
 app.MapGet("/", () => "Hello World! again");
 
 app.Run();
+
+
+public partial class Program { }

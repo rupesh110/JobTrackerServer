@@ -10,6 +10,6 @@ public class TestController : ControllerBase
     [HttpGet("ping")]
     public IActionResult Ping()
     {
-        return Ok("pong1");
+        return Ok("pong");
     }
 }

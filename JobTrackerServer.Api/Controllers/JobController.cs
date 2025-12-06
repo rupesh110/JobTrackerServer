@@ -21,4 +21,11 @@ public class JobController : ControllerBase
         var jobs = await _jobService.GetAllJobs();
         return Ok(jobs);
     }
+
+    [HttpPost("addJob")]
+    public async Task<IActionResult> AddJob()
+    {
+        await Task.CompletedTask;
+        return StatusCode(201, "received12");
+    }
 }

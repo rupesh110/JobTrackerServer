@@ -6,6 +6,7 @@
     "\\JobTrackerServer.Application",
     "\\JobTrackerServer.Application\\DTOs",
     "\\JobTrackerServer.Application\\DTOs\\Job",
+    "\\JobTrackerServer.Domain",
     "\\JobTrackerServer.Infrastructure",
     "\\JobTrackerServer.Infrastructure\\Migrations",
     "\\JobTrackerServer.Infrastructure\\Persistence",
